@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'userapp',
     'temp',
     'api_crud',
+    'form_crud',
     
     
     #rest_framework
