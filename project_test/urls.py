@@ -8,6 +8,7 @@ urlpatterns = [
     path('',include('temp.urls')),
     path('userapp/',include('userapp.urls')),
     path('api_crud/',include('api_crud.urls')),
+    path('form_crud/',include('form_crud.urls')),
     
 ]
     
